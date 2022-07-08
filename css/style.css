@@ -115,7 +115,6 @@ body{
     .main-login{
         display: flex;
         flex-direction: column;
-        gap: 20px;
     }
     .right-login{
         width: 100vw;
@@ -126,7 +125,7 @@ body{
     }
 
     .left-login-image{
-        width: 25vw;
+        width: 35vw;
     }
 
     .left-login >h1{
